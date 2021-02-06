@@ -84,3 +84,4 @@ summary(model)
 #When in your data one country was observed many years (e.g. 2010, 2011, 2012), Results of lm()
 #will not be correct anymore. That is why in WDI() funciton we specifying just one year
 #privet
+#privet esho raz
