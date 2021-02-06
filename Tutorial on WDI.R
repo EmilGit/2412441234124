@@ -85,3 +85,4 @@ summary(model)
 #will not be correct anymore. That is why in WDI() funciton we specifying just one year
 #privet
 #privet esho raz
+#oshibka oshibka
